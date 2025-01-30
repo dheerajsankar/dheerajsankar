@@ -15,6 +15,7 @@ PlanetBot: A chatbot built for planetary facts.
 📫 Let’s Connect:
 
 LinkedIn: https://www.linkedin.com/in/dheeraj-sankar-12859616a/
-Portfolio : 
-📧 Email: dheerajsanakar@example.com
+
+📧 Email: dheerajsanakar2@gmail.com
+
 Thanks for stopping by! 😊
