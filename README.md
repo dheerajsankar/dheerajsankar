@@ -1,8 +1,11 @@
 Welcome to my GitHub profile!
 
 🌱 Currently Exploring: AI and ML, with a passion for building innovative solutions.
+
 🔭 In Progress: My tech portfolio – dheerajsanakar.com
+
 👨‍💻 Languages I Love: Python, C++, and exploring the frontiers of AI/ML.
+
 🎓 Background: MSc in Robotics and AI, University of Glasgow.
 
 🌟 Featured Projects:
