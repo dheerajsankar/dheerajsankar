@@ -1,8 +1,6 @@
 Welcome to my GitHub profile!
 
-🌱 Currently Exploring: AI and ML, with a passion for building innovative solutions.
-
-🔭 In Progress: My tech portfolio – dheerajsanakar.com
+🌱 Currently Exploring: Robotics, Embedded Systems, Drone Guidance Systems, AI and ML, with a passion for building innovative solutions.
 
 👨‍💻 Languages I Love: Python, C++, and exploring the frontiers of AI/ML.
 
