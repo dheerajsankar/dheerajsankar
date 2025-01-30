@@ -1,18 +1,17 @@
-# Hi there! 👋 I'm Dheeraj Sanakar
+Welcome to my GitHub profile!
 
-Welcome to my GitHub profile! Here's a little about me:
+🌱 Currently Exploring: AI and ML, with a passion for building innovative solutions.
+🔭 In Progress: My tech portfolio – dheerajsanakar.com
+👨‍💻 Languages I Love: Python, C++, and exploring the frontiers of AI/ML.
+🎓 Background: MSc in Robotics and AI, University of Glasgow.
 
-- 🌱 I’m currently working on AI and ML.
-- 🔭 I’m building my tech portfolio: [dheerajsanakar.com](https://dheerajsanakar.com)
-- 👨‍💻 I love coding in Python, C++, and exploring AI/ML.
-- 👨‍🎓 MSc in Robotics and AI from the University of Glasgow, I have developed cutting-edge solutions for various real-world challenges. My experience spans designing active suspension systems for Mars rovers, creating AI-powered robotic solutions like HapticVision, and building smart IoT systems.
+🌟 Featured Projects:
 
-### 🌟 Featured Projects
-- [PlanetBot](https://github.com/your-repo-link) - A chatbot built for planetary facts.
+PlanetBot: A chatbot built for planetary facts.
 
-### 📫 Get in Touch
-- [LinkedIn](https://www.linkedin.com/in/dheeraj-sankar-12859616a/)
-- [Portfolio](https://dheerajsanakar.com)
-- 📧 Email: dheerajsanakar@example.com
+📫 Let’s Connect:
 
+LinkedIn: https://www.linkedin.com/in/dheeraj-sankar-12859616a/
+Portfolio : 
+📧 Email: dheerajsanakar@example.com
 Thanks for stopping by! 😊
