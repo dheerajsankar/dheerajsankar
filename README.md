@@ -9,6 +9,7 @@ Welcome to my GitHub profile!
 🌟 Featured Projects:
 
 PlanetBot: A chatbot built for planetary facts.
+
 Drone Swarm using GAN :Simulate drone swarm data using GANs for positions, speeds, and collision risk analysis.
 
 📫 Let’s Connect:
