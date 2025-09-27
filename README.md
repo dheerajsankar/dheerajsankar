@@ -6,10 +6,6 @@ Welcome to my GitHub profile!
 
 🎓 Background: MSc in Robotics and AI, University of Glasgow.
 
-🌟 Featured Projects:
-
-PlanetBot: A chatbot built for planetary facts.
-
 Drone Swarm using GAN :Simulate drone swarm data using GANs for positions, speeds, and collision risk analysis.
 
 📫 Let’s Connect:
