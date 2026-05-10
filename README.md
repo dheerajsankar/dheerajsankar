@@ -1,7 +1,7 @@
 
 
 <div align="left">
-  .
+
 <img src="./assets/gif2.gif" width="78"/>[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&background=000000F3&center=true&vCenter=true&width=700&lines=....booting+up;Hi%2C+I+am+Dheeraj;Robotics+%2F+AI+Engineer;Autonomous+Systems+Researcher;Drone+Swarming+%7C+ROS2+%7C+AI;Welcome+to+my+GitHub)](https://git.io/typing-svg)<img src="./assets/gif2.gif" width="78"/>
 
 </div>
