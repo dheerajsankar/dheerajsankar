@@ -117,13 +117,3 @@ Embedded Systems      ████████░░░░░░   65%
 
 ---
 
-
-<div align="center">
-
-## END OF TRANSMISSION
-
-<img src="assets/gif.gif" width="850"/>
-
-</div>
-
----
