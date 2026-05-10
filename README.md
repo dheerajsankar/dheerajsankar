@@ -8,7 +8,8 @@
 
 ---
 
-# SYSTEM STATUS
+# System Status
+
 
 ```bash
 > Name: Dheeraj Sankar
@@ -21,7 +22,8 @@
 
 ---
 
-# ACTIVE MISSIONS
+# Active Missions
+
 
 - Autonomous UAV Swarming
 - Multi-Agent Coordination
@@ -33,7 +35,8 @@
 
 ---
 
-# CORE STACK
+# Core Stack
+
 
 ## Robotics / AI
 
@@ -57,7 +60,8 @@
 
 ---
 
-# RESEARCH LOG
+# Research Log
+
 
 ```txt
 [2026] Working on decentralized drone swarm systems
@@ -69,7 +73,8 @@
 ---
 
 
-# SKILL MATRIX
+# Skill Matrix
+
 
 ```txt
 Python                █████████████░   90%
@@ -82,23 +87,22 @@ Embedded Systems      ████████░░░░░░   65%
 
 ---
 
-# GITHUB ANALYTICS
+# Github Analytics
+
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=dheerajsankar&show_icons=true&theme=merko&hide_border=true&bg_color=000000"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dheerajsankar&theme=merko&hide_border=true&background=000000"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dheerajsankar&layout=compact&theme=merko&hide_border=true&bg_color=000000"/>
-
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=dheerajsankar&theme=merko&hide_border=true&background=00000000&ring=00ff88&fire=00ff88&currStreakLabel=00ff88"/>
 </p>
 
 ---
 
-# CONTRIBUTION GRAPH
+# Contribution Graph
 
-[![Dheeraj's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dheerajsankar&bg_color=000000&color=39ff14&line=39ff14&point=ffffff&area=true&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 ---
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dheerajsankar&theme=github_dark"/>
+</p>
+
+
 
