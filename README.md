@@ -1,21 +1,129 @@
-# 💫 About Me:
-Welcome to my GitHub profile!<br><br>🌱 Currently Exploring: Robotics, Embedded Systems, Drone Guidance Systems, AI and ML, with a passion for building innovative solutions.<br><br>👨‍💻 Languages I Love: Python, C++, and exploring the frontiers of AI/ML.<br><br>🎓 Background: MSc in Robotics and AI, University of Glasgow.<br><br>Thanks for stopping by! 😊<br>
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/dheeraj-sankar-narayana-mangalath-12859616a) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dheerajsankar2@icloud.com) 
+<div align="left">
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Objective-C](https://img.shields.io/badge/OBJECTIVE--C-%233A95E3.svg?style=for-the-badge&logo=apple&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Zigbee](https://img.shields.io/badge/zigbee-%23EB0443.svg?style=for-the-badge&logo=zigbee&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=dheerajsankar&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=dheerajsankar&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dheerajsankar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=10F709&background=000000F3&center=true&vCenter=true&width=700&lines=....booting+up;Hi%2C+I+am+Dheeraj;Robotics+%2F+AI+Engineer;Autonomous+Systems+Researcher;Drone+Swarming+%7C+ROS2+%7C+AI;Welcome+to+my+GitHub)](https://git.io/typing-svg)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=dheerajsankar&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# SYSTEM STATUS
+
+```bash
+> Name: Dheeraj Sankar
+> Field: Robotics + Autonomous Systems
+> Education: MSc Robotics & AI — University of Glasgow
+> Focus: UAV Swarming | AI | Embedded Systems
+> Languages: Python | C++ | ROS2
+> Status: Building autonomous machine ecosystems
+```
+
+---
+
+# ACTIVE MISSIONS
+
+- Autonomous UAV Swarming
+- Multi-Agent Coordination
+- LiDAR-based Exploration
+- Drone Guidance Systems
+- Reinforcement Learning
+- Robotics Infrastructure
+- AI for Real-World Systems
+
+---
+
+# CORE STACK
+
+## Robotics / AI
+
+![ROS](https://img.shields.io/badge/ROS2-0A0FF9?style=for-the-badge&logo=ros&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-000000?style=for-the-badge&logo=opencv&logoColor=39FF14)
+![PyTorch](https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch&logoColor=39FF14)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=tensorflow&logoColor=39FF14)
+
+## Languages
+
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=39FF14)
+![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=39FF14)
+![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=39FF14)
+
+## Systems / Infrastructure
+
+![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=39FF14)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=39FF14)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=39FF14)
+![Arduino](https://img.shields.io/badge/Arduino-000000?style=for-the-badge&logo=arduino&logoColor=39FF14)
+
+---
+
+# RESEARCH LOG
+
+```txt
+[2026] Working on decentralized drone swarm systems
+[2026] Exploring autonomous aerial exploration algorithms
+[2026] Building reinforcement learning robotics pipelines
+[2026] Investigating adaptive path planning systems
+```
+
+---
+
+# PROJECT ARCHIVE
+
+## FLAME-Based Drone Swarming
+Decentralized UAV exploration system using LiDAR and adaptive path planning.
+
+## Reinforcement Learning Navigation
+Residual policy learning for robotic manipulation and autonomous movement.
+
+## Thermal Detection Drone System
+Wildfire search-and-rescue drone using thermal imaging.
+
+## Autonomous Mission Planner
+Optimization-based multi-agent routing and coordination framework.
+
+---
+
+# SKILL MATRIX
+
+```txt
+Python                █████████████░   90%
+C++                   ███████████░░░   80%
+ROS2                  ██████████░░░░   75%
+Computer Vision       █████████░░░░░   70%
+Swarm Robotics        ████████░░░░░░   65%
+Embedded Systems      ████████░░░░░░   65%
+```
+
+---
+
+# GITHUB ANALYTICS
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=dheerajsankar&show_icons=true&theme=merko&hide_border=true&bg_color=000000"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dheerajsankar&theme=merko&hide_border=true&background=000000"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dheerajsankar&layout=compact&theme=merko&hide_border=true&bg_color=000000"/>
+
+</p>
+
+---
+
+# CONTRIBUTION GRAPH
+
+[![Dheeraj's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dheerajsankar&bg_color=000000&color=39ff14&line=39ff14&point=ffffff&area=true&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+
+---
+
+
+<div align="center">
+
+## END OF TRANSMISSION
+
+<img src="assets/gif.gif" width="850"/>
+
+</div>
+
+---
