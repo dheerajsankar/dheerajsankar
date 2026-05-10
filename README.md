@@ -68,21 +68,6 @@
 
 ---
 
-# PROJECT ARCHIVE
-
-## FLAME-Based Drone Swarming
-Decentralized UAV exploration system using LiDAR and adaptive path planning.
-
-## Reinforcement Learning Navigation
-Residual policy learning for robotic manipulation and autonomous movement.
-
-## Thermal Detection Drone System
-Wildfire search-and-rescue drone using thermal imaging.
-
-## Autonomous Mission Planner
-Optimization-based multi-agent routing and coordination framework.
-
----
 
 # SKILL MATRIX
 
