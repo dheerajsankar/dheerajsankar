@@ -104,5 +104,7 @@ Embedded Systems      ████████░░░░░░   65%
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dheerajsankar&theme=github_dark"/>
 </p>
 
-
+<p align = "center>
+<img src="assets/ .gif>
+</p>
 
