@@ -19,7 +19,7 @@
 ```
 
 
-# Active Missions
+# Active Missions <img src="./assets/one piece STICKER - Find & Share on GIPHY.gif" width="78"/>
 
 
 - Autonomous UAV Swarming
