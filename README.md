@@ -2,11 +2,9 @@
 
 <div align="left">
 
-<img src="./assets/gif2.gif" width="78"/>[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&background=000000F3&center=true&vCenter=true&width=700&lines=....booting+up;Hi%2C+I+am+Dheeraj;Robotics+%2F+AI+Engineer;Autonomous+Systems+Researcher;Drone+Swarming+%7C+ROS2+%7C+AI;Welcome+to+my+GitHub)](https://git.io/typing-svg)<img src="./assets/gif2.gif" width="78"/>
+<img src="./assets/gif2.gif" width="78"/>[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&background=000000F3&center=true&vCenter=true&width=700&lines=....booting+up;Hi%2C+I+am+Dheeraj;Robotics+%2F+AI+Engineer;Autonomous+Systems+Researcher;Drone+Swarming+%7C+ROS2+%7C+AI;Welcome+to+my+GitHub)](https://git.io/typing-svg)
 
 </div>
-
----
 
 # System Status 
 
@@ -20,7 +18,6 @@
 > Status: Building autonomous machine ecosystems
 ```
 
----
 
 # Active Missions
 
@@ -33,7 +30,6 @@
 - Robotics Infrastructure
 - AI for Real-World Systems
 
----
 
 # Core Stack
 
@@ -41,24 +37,23 @@
 ## Robotics / AI
 
 ![ROS](https://img.shields.io/badge/ROS2-0A0FF9?style=for-the-badge&logo=ros&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-000000?style=for-the-badge&logo=opencv&logoColor=39FF14)
-![PyTorch](https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch&logoColor=39FF14)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=tensorflow&logoColor=39FF14)
+![OpenCV](https://img.shields.io/badge/OpenCV-000000?style=for-the-badge&logo=opencv&logoColor=FAF9F6)
+![PyTorch](https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch&logoColor=FAF9F6)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=tensorflow&logoColor=FAF9F6)
 
 ## Languages
 
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=39FF14)    
-![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=39FF14)
-![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=39FF14)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=FAF9F6)    
+![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=FAF9F6)
+![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=FAF9F6)
 
 ## Systems / Infrastructure
 
-![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=39FF14)
-![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=39FF14)
-![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=39FF14)
-![Arduino](https://img.shields.io/badge/Arduino-000000?style=for-the-badge&logo=arduino&logoColor=39FF14)
+![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=FAF9F6)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=FAF9F6)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=FAF9F6)
+![Arduino](https://img.shields.io/badge/Arduino-000000?style=for-the-badge&logo=arduino&logoColor=FAF9F6)
 
----
 
 # Research Log
 
@@ -69,8 +64,6 @@
 [2026] Building reinforcement learning robotics pipelines
 [2026] Investigating adaptive path planning systems
 ```
-
----
 
 
 # Skill Matrix
@@ -85,23 +78,20 @@ Swarm Robotics        ████████░░░░░░   65%
 Embedded Systems      ████████░░░░░░   65%
 ```
 
----
 
 # Github Analytics
 
-
+<p align="center">
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=dheerajsankar&theme=merko&hide_border=true&background=00000000&ring=00ff88&fire=00ff88&currStreakLabel=00ff88"/> 
+</p>
 
-
----
 
 # Contribution Graph
 
-
----
 <p align="left">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dheerajsankar&theme=github_dark"/>
 </p> 
+
 
 
 
