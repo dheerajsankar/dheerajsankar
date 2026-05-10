@@ -1,14 +1,14 @@
 
 
 <div align="left">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=10F709&background=000000F3&center=true&vCenter=true&width=700&lines=....booting+up;Hi%2C+I+am+Dheeraj;Robotics+%2F+AI+Engineer;Autonomous+Systems+Researcher;Drone+Swarming+%7C+ROS2+%7C+AI;Welcome+to+my+GitHub)](https://git.io/typing-svg)
+  .
+<img src="./assets/gif2.gif" width="78"/>[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&background=000000F3&center=true&vCenter=true&width=700&lines=....booting+up;Hi%2C+I+am+Dheeraj;Robotics+%2F+AI+Engineer;Autonomous+Systems+Researcher;Drone+Swarming+%7C+ROS2+%7C+AI;Welcome+to+my+GitHub)](https://git.io/typing-svg)<img src="./assets/gif2.gif" width="78"/>
 
 </div>
 
 ---
 
-# System Status
+# System Status 
 
 
 ```bash
@@ -47,7 +47,7 @@
 
 ## Languages
 
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=39FF14)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=39FF14)    
 ![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=39FF14)
 ![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=39FF14)
 
@@ -90,9 +90,8 @@ Embedded Systems      ████████░░░░░░   65%
 # Github Analytics
 
 
-<p align="center">
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=dheerajsankar&theme=merko&hide_border=true&background=00000000&ring=00ff88&fire=00ff88&currStreakLabel=00ff88"/>
-</p>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=dheerajsankar&theme=merko&hide_border=true&background=00000000&ring=00ff88&fire=00ff88&currStreakLabel=00ff88"/> 
+
 
 ---
 
@@ -100,11 +99,9 @@ Embedded Systems      ████████░░░░░░   65%
 
 
 ---
-<p align="center">
+<p align="left">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dheerajsankar&theme=github_dark"/>
-</p>
+</p> 
 
-<p align = "center>
-<img src="assets/ .gif>
-</p>
+
 
