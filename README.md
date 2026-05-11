@@ -85,12 +85,11 @@ Embedded Systems      ████████░░░░░░   65%
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=dheerajsankar&theme=merko&hide_border=true&background=00000000&ring=00ff88&fire=00ff88&currStreakLabel=00ff88"/> 
 </p>
 
+# Contribution Snake
 
-# Contribution Graph
-
-<p align="left">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dheerajsankar&theme=github_dark"/>
-</p> 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/dheerajsankar/dheerajsankar/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
 
 
 
