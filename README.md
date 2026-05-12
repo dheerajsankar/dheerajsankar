@@ -2,7 +2,7 @@
 
 <div align="left">
 
-<img src="./assets/gif2.gif" width="78"/>[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&background=000000F3&center=true&vCenter=true&width=700&lines=....booting+up;Hi%2C+I+am+Dheeraj;Robotics+%2F+AI+Engineer;Autonomous+Systems+Researcher;Drone+Swarming+%7C+ROS2+%7C+AI;Welcome+to+my+GitHub)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&background=000000F3&center=true&vCenter=true&width=700&lines=....booting+up;Hi%2C+I+am+Dheeraj;Robotics+%2F+AI+Engineer;Autonomous+Systems+Researcher;Drone+Swarming+%7C+ROS2+%7C+AI;Welcome+to+my+GitHub)](https://git.io/typing-svg)
 
 </div>
 
@@ -19,7 +19,7 @@
 ```
 
 
-# Active Missions <img src="./assets/one piece STICKER - Find & Share on GIPHY.gif" width="78"/>
+# Active Missions 
 
 
 - Autonomous UAV Swarming
@@ -65,18 +65,6 @@
 [2026] Investigating adaptive path planning systems
 ```
 
-
-# Skill Matrix
-
-
-```txt
-Python                █████████████░   90%
-C++                   ███████████░░░   80%
-ROS2                  ██████████░░░░   75%
-Computer Vision       █████████░░░░░   70%
-Swarm Robotics        ████████░░░░░░   65%
-Embedded Systems      ████████░░░░░░   65%
-```
 
 
 # Github Analytics
