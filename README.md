@@ -66,10 +66,3 @@
 ```
 
 
-
-# Github Analytics
-
-<p align="center">
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=dheerajsankar&theme=merko&hide_border=true&background=00000000&ring=00ff88&fire=00ff88&currStreakLabel=00ff88"/> 
-</p>
-
