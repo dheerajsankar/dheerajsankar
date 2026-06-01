@@ -9,7 +9,7 @@
 
 
 ```bash
-> Name: Dheeraj Sankar
+> Name: Dheeraj Sankar N
 > Field: Robotics + Autonomous Systems
 > Education: MSc Robotics & AI — University of Glasgow
 > Focus: UAV Swarming | AI | Embedded Systems
